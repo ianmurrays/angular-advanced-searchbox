@@ -44,6 +44,6 @@
     "angular": "~1",
     "jquery": "~2",
     "bootstrap": "~3",
-    "angular-bootstrap": "~1"
+    "angular-ui-bootstrap": "~2"
   }
 }
